@@ -38,3 +38,4 @@ public class Main {
         return !(dayOfWeek == DayOfWeek.SATURDAY || dayOfWeek == DayOfWeek.SUNDAY || holidays.contains(date));
     }
 }
+
